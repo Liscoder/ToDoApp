@@ -1,0 +1,70 @@
+i{
+	color:black;
+	margin-right:1%;
+}
+nav{
+	background-color:#ccc;
+	width:100%;
+	padding:2%;
+	color:#104E9E;
+	font-size:25px;
+}
+textarea{
+	margin:10px 0;
+	height:100px;
+	overflow-y:scroll;
+	border:solid 1px black;
+}
+button{
+	border-radius:6px;
+	margin:5px 0;
+}
+.tweet{
+	background-color:gray;
+	margin:5px 0;
+
+
+}
+.fa-cog{
+	color:#104E9E;
+}
+#item{
+	margin-bottom:5px;
+}
+
+#comentarios{
+	color:white;
+	margin:10px;
+	background-color:rgba(0,0,0,0.26);
+	border-radius:4px;
+
+}
+input{
+	display:inline-block;
+	float:left;
+	padding:4px;
+}
+p{
+display:inline-block;
+
+}
+span{
+	float:right;
+	padding:4px;
+}
+
+#contenido{
+	margin-left:20px;
+	padding:4px 0;
+
+}
+#lista{
+height:300px;
+background-color:rgba(124,234,168,0.55);
+border-radius:1px;
+overflow-y:scroll;
+}
+hr{
+	background-color:black;
+	height:1px;
+}
